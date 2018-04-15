@@ -1,0 +1,12 @@
+#!/bin/sh
+
+#echo "My test!"
+#sleep 20
+#echo "Test OVER!" 
+
+while true
+
+do
+	echo "My test!"
+	sleep 1
+done	
