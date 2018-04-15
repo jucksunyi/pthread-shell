@@ -1,0 +1,13 @@
+#!/bin/sh
+
+while  true
+do
+        
+        sleep 10  &&
+        
+        killall -9 sh	&&
+
+	echo "@@@@"			
+#	   usleep 1  
+	   
+done
